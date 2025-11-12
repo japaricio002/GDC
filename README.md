@@ -1,2 +1,2 @@
 # GDC
-Google Developer C;ub
+Google Developer Club
