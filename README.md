@@ -1,2 +1,3 @@
 # GDC
-Google Developer Club
+Miami Dade College
+Google Developer Group
